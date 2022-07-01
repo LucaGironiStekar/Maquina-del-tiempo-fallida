@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaquinaDelTiempo", "..\Maquina del tiempo\MaquinaDelTiempo.csproj", "{99E584D3-0B66-40EF-8917-4BE3271C615B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fecha", "..\Fecha\Fecha.csproj", "{B43923A5-EB92-4CF8-A56E-5E8E4ED4F11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E584D3-0B66-40EF-8917-4BE3271C615B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E584D3-0B66-40EF-8917-4BE3271C615B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E584D3-0B66-40EF-8917-4BE3271C615B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E584D3-0B66-40EF-8917-4BE3271C615B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43923A5-EB92-4CF8-A56E-5E8E4ED4F11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43923A5-EB92-4CF8-A56E-5E8E4ED4F11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43923A5-EB92-4CF8-A56E-5E8E4ED4F11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43923A5-EB92-4CF8-A56E-5E8E4ED4F11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BD64A8E-36ED-4B75-BD59-B52A9DD05C42}
+	EndGlobalSection
+EndGlobal
